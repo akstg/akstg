@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akstg
-- 👀 I’m interested in web and product development, management
-- 🌱 I’m currently learning html, css
-- 💞️ I’m looking to learn collaborate on new projects that will allow me gain new knowledge and skills
+- 👀 I’m interested in web and product development, management.
+- 🌱 I’m currently learning front end web-dev.
+- 💞️ I’m looking to learn and collaborate on new projects that will allow me gain new knowledge and skills.
 - 📫 How to reach me Twitter @akwaysi
 
 <!---
